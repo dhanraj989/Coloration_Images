@@ -1,1 +1,1 @@
-# Coloration_Images
+# GUI for Image Coloration
